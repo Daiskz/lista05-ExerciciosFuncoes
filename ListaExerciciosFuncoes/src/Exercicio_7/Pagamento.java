@@ -1,4 +1,4 @@
-package Exercicio7;
+package Exercicio_7;
 
 public class Pagamento {
     public static double valorPagamento(double valorP, int dias) {
