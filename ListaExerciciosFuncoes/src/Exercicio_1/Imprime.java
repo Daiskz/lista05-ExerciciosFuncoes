@@ -1,4 +1,4 @@
-package E1;
+package Exercicio_1;
 
 public class Imprime {
     public static void imprimir(int n) {
