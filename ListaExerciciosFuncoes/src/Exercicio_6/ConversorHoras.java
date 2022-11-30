@@ -1,4 +1,4 @@
-package Exercicio6;
+package Exercicio_6;
 
 public class ConversorHoras {
     public static void conversorDeHora(int horas, int minutos) {
