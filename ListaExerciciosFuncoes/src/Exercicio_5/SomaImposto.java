@@ -1,4 +1,4 @@
-package Exercicio5;
+package Exercicio_5;
 
 public class SomaImposto {
     public static void somaImposto(double taxaImposto, double custo) {
